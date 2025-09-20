@@ -1,4 +1,12 @@
-streamlit==1.25.0
+streamlit==1.27.0
 folium==0.20.0
 streamlit-folium==0.14.0
 streamlit-autorefresh==1.0.1
+numpy
+pandas
+altair
+blinker
+cachetools
+click
+importlib-metadata
+rich
